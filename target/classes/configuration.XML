@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <database nom="Banque">
+        <host>localhost</host>
+        <port>3306</port>
+        <user>root</user>
+        <pwd>XDTRTR1</pwd>
+    </database>
+    <admin>
+        <nom droits = "No limit">Abie</nom>
+        <prenom>Rock</prenom>
+        <url>https://rockabie.com</url>
+        <adresse>
+            <numero>15</numero>
+            <rue>Route des gris</rue>
+            <cp>34000</cp>
+            <ville>Montpellier</ville>
+        </adresse>
+    </admin>
+</configuration>
