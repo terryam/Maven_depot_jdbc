@@ -1,4 +1,4 @@
-package fr.rock;
+package fr.connection;
 /**
  * Configuration de la bdd à partir de ResourceBundle
  */

@@ -1,4 +1,4 @@
-package fr.rock;
+package fr.connection;
 
 /**
  * Hello world!

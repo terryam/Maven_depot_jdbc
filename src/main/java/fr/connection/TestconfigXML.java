@@ -1,4 +1,4 @@
-package fr.rock;
+package fr.connection;
 /**
  * Accès aux données du fichier configuration
  * en passant par le fichier xml

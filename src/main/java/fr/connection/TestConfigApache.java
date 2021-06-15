@@ -1,4 +1,4 @@
-package fr.rock;
+package fr.connection;
 /**
  * Accès aux données du fichie de configuration avec
  * la librairie commons-configuration2

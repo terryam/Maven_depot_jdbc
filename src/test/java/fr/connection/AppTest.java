@@ -1,4 +1,4 @@
-package fr.rock;
+package fr.connection;
 
 import static org.junit.Assert.assertTrue;
 
